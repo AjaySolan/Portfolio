@@ -614,38 +614,26 @@ h2{
 
 #project1{
     grid-area: project1;
-    background-image: url(/event.jpeg);
-    background-size: contain;
 }
 
 #project2{
     grid-area: project2;
-    background-image: url(/blog.jpeg);
-    background-size: contain;
 }
 
 #project3{
     grid-area: project3;
-    background-image: url(/brickout.png);
-    background-size: contain;
 }
 
 #project4{
     grid-area: project4;
-    background-image: url(/e-learning.jpeg);
-    background-size: contain;
 }
 
 #project5{
     grid-area: project5;
-    background-image: url(/netflix.png);
-    background-size: contain;
 }
 
 #project6{
     grid-area: project6;
-    background-image: url(/tic\ tac\ toe.jpeg);
-    background-size: contain;
 }
 
 
